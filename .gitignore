@@ -1,0 +1,7 @@
+*.zip
+*.html
+__*
+.vscode
+*.jpg
+/.ipynb_checkpoints/
+Untitled.ipynb
